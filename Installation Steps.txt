@@ -1,0 +1,8 @@
+To Execute this code you need Jupyter Notebook
+
+To install Jupyter Notebook you can follow instructions in this link https://jupyter.org/install
+
+
+Or else you can use Jupyter Notebook from Anaconda
+
+This is the link to download anaconda https://docs.anaconda.com/free/anaconda/install/windows/
